@@ -1,5 +1,8 @@
 # chat-web-app
 Add your firebase config values to these fields and run.
+
+
+
 var firebaseConfig = {
     apiKey: ,
     authDomain: ,
